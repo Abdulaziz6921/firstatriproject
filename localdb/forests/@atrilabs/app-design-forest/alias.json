@@ -1,12 +1,13 @@
 {
   "BarChart": 1,
-  "Button": 19,
-  "Div": 47,
-  "Flex": 132,
-  "Image": 60,
+  "Button": 20,
+  "Div": 48,
+  "Flex": 169,
+  "Image": 63,
   "Upload": 1,
   "Icon": 1,
-  "TextBox": 106,
+  "TextBox": 130,
   "Link": 6,
-  "Carousel": 4
+  "Carousel": 4,
+  "Input": 11
 }
